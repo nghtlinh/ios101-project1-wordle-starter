@@ -14,6 +14,10 @@ The following **required** functionality is completed:
 - [ ] When tapping on the keyboard, a letter is shown or deleted (letter selected)
 - [ ] User can play a basic version of Wordle, with different goal words each time
 
+The following **optional** features are implemented:
+
+- [ ] Improve and customize the user interface by adding and app icon
+
 ## Video Walkthrough
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
