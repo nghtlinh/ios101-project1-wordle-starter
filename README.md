@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] Improve and customize the user interface by adding and app icon
+- [ ] Improve and customize the user interface by adding app icon
 
 ## Video Walkthrough
 
