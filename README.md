@@ -27,7 +27,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I accidentally forked the project directly from the project starter repo so I couldn't make it private as required.
 
 ## License
 
