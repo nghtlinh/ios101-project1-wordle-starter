@@ -16,13 +16,13 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [x] Improve and customize the user interface by adding app icon
+- [x] Improve and customize the user interface by adding an app icon
 
 ## Video Walkthrough
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]]([https://www.youtube.com/watch?v=GA92eKlYio4](https://www.loom.com/share/348a03a69eb2499d834ea2a475c8a2c5?sid=bb5ffc14-e318-4759-8c11-50f789b16286)) .
+[Guide]]([https://www.loom.com/share/b752ea7cae384f81aad6c34f8d06aa4d?sid=0bfb9488-5801-4441-9362-e26c85bb370c)) .
 
 
 ## Notes
